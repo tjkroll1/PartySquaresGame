@@ -9,13 +9,13 @@
       {
          "Team 1" :
          {
-            "Image" : "Cincinnati-Bengals-Logo.png",
-            "Name" : "Bengals"
+            "Image" : "Seattle-Seahawks-Logo.png",
+            "Name" : "Seahawks"
          },
          "Team 2" :
          {
-            "Image" : "LA_Rams.png",
-            "Name" : "Rams"
+            "Image" : "New_England_Patriots.png",
+            "Name" : "Patriots"
          }
       }
    }
