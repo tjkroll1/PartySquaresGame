@@ -7,7 +7,7 @@ set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT P
 
 set(target_output_dir ${CMAKE_SOURCE_DIR}/Target/bin)
 
-add_subdirectory(JSON_Parser)
+add_subdirectory(JSON-Parser)
 add_subdirectory(PartySquaresGame)
 
 message(STATUS "Output Dir: ${target_output_dir}")
