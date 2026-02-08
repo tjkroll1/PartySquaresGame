@@ -1,0 +1,3 @@
+[submodule "JSON-Parser"]
+	path = JSON-Parser
+	url = https://github.com/tjkroll1/JSON-Parser.git
