@@ -1,0 +1,22 @@
+{
+   "Game Configuration" : 
+   {
+      "Game Settings" : 
+      {
+         "Image Directory" : "..\..\..\Images"
+      },
+      "Teams" :
+      {
+         "Team 1" :
+         {
+            "Image" : "Cincinnati-Bengals-Logo.png",
+            "Name" : "Bengals"
+         },
+         "Team 2" :
+         {
+            "Image" : "LA_Rams.png",
+            "Name" : "Rams"
+         }
+      }
+   }
+}
